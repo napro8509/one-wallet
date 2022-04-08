@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OneWallet.iml" filepath="$PROJECT_DIR$/.idea/modules/OneWallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OneWallet.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OneWallet.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/309760297/OneWallet.react-native-localization.iml" filepath="$PROJECT_DIR$/.idea/modules/309760297/OneWallet.react-native-localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1725485279/OneWallet.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1725485279/OneWallet.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-272962633/OneWallet.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-272962633/OneWallet.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/204367177/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/204367177/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
